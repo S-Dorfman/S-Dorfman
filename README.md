@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 - 😺 I have recently graduated from a Software Engineering Bootcamp. 
-- 🔭 I’m currently working on expanding my skillset and looking for a role in software development.  
+- 🔭 I’m currently working on a Workout Tracker App and expanding my skillset in general. 
+- 🔍 I'm looking for a position in software development.  
+- 🌎 Located in NYC. 
 - 💪 Fun fact: When I'm not coding you can find me at the gym. 
 
 ## Languages and Tools 
