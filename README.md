@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 
 - 😺 I have recently graduated from a Software Engineering Bootcamp. 
-- 🔭 I’m currently working on a Workout Tracker App and expanding my skillset in general. 
+- 🔭 I’m currently working on a Workout Tracker App and expanding my developer skillset. 
 - 🔍 I'm looking for a position in software development.  
 - 🌎 Located in NYC. 
-- 💪 Fun fact: When I'm not coding you can find me at the gym. 
+- 💪 When I'm not coding you can find me at the gym. 
+- ⚡ Fun fact: I'm multilingual 🇺🇸🇩🇪🇮🇱🇪🇦 
 
 ## Languages and Tools 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
