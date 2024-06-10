@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 - 😺 I have recently graduated from a Software Engineering Bootcamp at Per Scholas. 
 - 🔭 Currently working on learning Java and expanding my developer skillset. 
-- 🔍 Looking for a position in software development.  
 - 🌎 Located in NYC. 
 - 💪 When I'm not coding you can find me at the gym. 
 - ⚡ Fun fact: I'm multilingual 🇺🇸🇩🇪🇮🇱🇪🇦 
